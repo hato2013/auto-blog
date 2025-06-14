@@ -1,0 +1,4 @@
+baseURL = "https://hato2013.github.io/auto-blog/"
+languageCode = "ja"
+title = "Auto Blog"
+theme = "ananke"
