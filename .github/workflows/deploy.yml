@@ -27,6 +27,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          external_repository: hato2013/auto-blog  # ←あなたの公開用Repo名
           publish_branch: main  # または gh-pages
 
